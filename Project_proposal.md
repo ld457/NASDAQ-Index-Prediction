@@ -1,7 +1,7 @@
 # Salary Prediction
 
 ### Target:
-Prediction task is to determine whether a person makes over 50K a year.
+Prediction task is to determine whether a person makes over 50K a year. And we also want to find out which model can do the best classification.
 
 ### Attribute Information:
 Listing of attributes: >50K, <=50K.
