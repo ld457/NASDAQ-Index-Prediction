@@ -23,4 +23,4 @@ Listing of attributes: >50K, <=50K.
 14. native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands
 
 ### Approaches:
-We plan to use decision tree, clustering, PCA, SVM to tackle our classification problem.
+We plan to use decision tree, bagging, random forest, clustering, PCA and SVM to tackle our classification problem.
