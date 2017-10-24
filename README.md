@@ -1,7 +1,4 @@
-# SalaryPrediction
-
-We would like to use classification to predict whether a person's income exceeds $50K/yr based on census data.
-
+# NASDAQ Index Prediction
 
 ## Members:
 Lihua Dong (ld457)
