@@ -27,4 +27,3 @@ translate different type of data to daily data. (For example, the unemployment r
 The targets of our data analysis include:
 1.Find out the relationship between the features above and the NASDAQ 100 index, and the correlation between the features
 2.Build models for prediction of NASDAQ 100 index, compare and select the best model for the test data
-3
