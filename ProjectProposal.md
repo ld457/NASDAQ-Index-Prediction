@@ -12,19 +12,19 @@ So, the NASDAQ 100 is a good barometer for stock market and financial market, an
 The dataset we will analyze is cralwed from Quandl website. (https://www.quandl.com/)
 Because there are many factors related to the NASDAQ 100, we need to add many features in order to predict the index, and analysis the
 correlation of the factors. At first step, we want to use factors below as our feature:
-Rate of RMB to USD
-Rate of EUR to USD
-Rate of JPY to USD
-Real Yield Curve
-Price of Crude Oil
-Unemployement Rate
-Gold Price
-Consumer Price Index
-S&P 500
-FTSE 100 Index
-Nikkei 225 Index
-SSEC Index
-VIX
+Rate of RMB to USD, 
+Rate of EUR to USD, 
+Rate of JPY to USD, 
+Real Yield Curve, 
+Price of Crude Oil, 
+Unemployement Rate, 
+Gold Price, 
+Consumer Price Index, 
+S&P 500, 
+FTSE 100 Index, 
+Nikkei 225 Index, 
+SSEC Index, 
+VIX, and
 USD Index
 
 Because we need to crawl data from the website, the dataset requires cleaning and handling missing data. Also, we need to analysis how to 
@@ -32,5 +32,7 @@ translate different type of data to daily data. (For example, the unemployment r
 
 ## Target:
 The targets of our data analysis include:
-1.Find out the relationship between the features above and the NASDAQ 100 index, and the correlation between the features
-2.Build models for prediction of NASDAQ 100 index, compare and select the best model for the test data
+
+1.Find out the relationship between the features above and the NASDAQ 100 index, and the correlation between the features.
+
+2.Build models for prediction of NASDAQ 100 index, compare and select the best model for the test data. The models we will use for prediction include Logistic Regression and Support Vector Machine(SVM). For each model, we will select the effective factors to make predictions. 
